@@ -1,9 +1,9 @@
-# Kwintakwinta
+# appkuinta
 
 Aplikasi kuitansi untuk membantu pelaku usaha membuat dan mengelola kuitansi.
 
-- **Demo:** https://hildanrizky16.github.io/kwintakwinta/
-- **Repositori kode:** https://github.com/hildanrizky16/kwintakwinta
+- **Demo:** https://hildanrizky16.github.io/appkuinta/
+- **Repositori kode:** https://github.com/hildanrizky16/appkuinta
 
 ## Isi proyek
 
@@ -22,7 +22,7 @@ Repositori ini berisi halaman HTML dan kode JavaScript aplikasi. Berkas yang ter
 1. Unduh repo melalui **Code → Download ZIP**, lalu ekstrak, atau clone dengan Git:
 
    ```bash
-   git clone https://github.com/hildanrizky16/kwintakwinta.git
+   git clone https://github.com/hildanrizky16/appkuinta.git
    ```
 
 2. Buka folder proyek dan jalankan `index.html` di browser.
